@@ -1,7 +1,15 @@
-What happens when you initialize a repository? Why do you need to do it?
+1,What happens when you initialize a repository? Why do you need to do it?
 
 It will create a .git file in the directory. I need to init the repository to make the function of git available now.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+2,How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It kind of offering a buffer area to confrim the changes. The work directory is lately updated version and the respository is the last version if the latest version is not commited.
+
+3,How can you use the staging area to make sure you have one commit per logical change?
+
+Use Git add filename to add the file you want to make change to for the staging area.
+
+4,What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+In some cases, you do not want to change the master branch and need to try something new. Use a new branch called exp, for example, will totally help your files' history organized.  
