@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It will create a .git file in the directory. I need to init the repository to make the function of git available now.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It kind of offering a buffer area to confrim the changes. The work directory is lately updated version and the respository is the last version if the latest version is not commited.
