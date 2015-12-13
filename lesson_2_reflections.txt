@@ -12,4 +12,9 @@ Use Git add filename to add the file you want to make change to for the staging 
 
 4,What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-In some cases, you do not want to change the master branch and need to try something new. Use a new branch called exp, for example, will totally help your files' history organized.  
+In some cases, you do not want to change the master branch and need to try something new. Use a new branch called exp, for example, will totally help your files' history organized.
+
+5, How do the diagrams help you visualize the branch structure?
+
+I can use git log --graph --oneline branch-name1 branch-name2
+
