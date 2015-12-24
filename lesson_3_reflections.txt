@@ -6,3 +6,5 @@ Because you need to make sure the changes are needed to be updated to the local 
 Forks are used to clone one respository from other people's github account to your account. Clone is used to copy one respository from either local working directory or github account(remote). Branch is used when you just want to try something new, experimental but still want to keep original versions.
 4, What is the benefit of having a copy of the last known state of the remote stored locally?
 I think the best benefit will be you can still have one copy if the remote server is destroyed by some reason.
+5, How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It will be much harder if I collaborate with my teammates without git or github.
