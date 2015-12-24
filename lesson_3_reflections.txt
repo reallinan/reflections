@@ -4,3 +4,5 @@ I will create a remote repository to finish a project with others.
 Because you need to make sure the changes are needed to be updated to the local working directory.
 3, Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks are used to clone one respository from other people's github account to your account. Clone is used to copy one respository from either local working directory or github account(remote). Branch is used when you just want to try something new, experimental but still want to keep original versions.
+4, What is the benefit of having a copy of the last known state of the remote stored locally?
+I think the best benefit will be you can still have one copy if the remote server is destroyed by some reason.
