@@ -8,3 +8,5 @@ Forks are used to clone one respository from other people's github account to yo
 I think the best benefit will be you can still have one copy if the remote server is destroyed by some reason.
 5, How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It will be much harder if I collaborate with my teammates without git or github.
+6, When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I want to try something experimental, I will prefer to make changes in a separate branch. The advantage of making changes directly in master is it will save a lot efforts and the benefit of making changes in a separate branch is we can try something new without affecting the contents in the master branch.
